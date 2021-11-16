@@ -1,0 +1,9 @@
+0. creamos el array datos
+1. creamos la base de datos 
+	1.1 creamos la tabla de la base de datos
+	1.2 insertamos los datos en la tabla
+	1.3 leemos los registros y los guardamos en el array datos 
+
+
+*para borrar la base de datos por si cambiamos algun registro*
+aplicacion> alamcenamiento> borrar datos de sitio 
